@@ -1,0 +1,17 @@
+body,html{
+    margin: 0;
+    height: 100%;
+}
+ul,li {
+    list-style: none;
+   padding:0;
+}
+ul{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+*::-webkit-scrollbar{
+    display: none;
+}
